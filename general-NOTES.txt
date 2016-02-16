@@ -1,0 +1,6 @@
+https://www.google.com/search?espv=2&q=html+cast+webpage+button&oq=html+cast+webpage+button&gs_l=serp.3..33i21.8694.9393.0.9640.6.6.0.0.0.0.137.501.0j4.4.0....0...1.1.64.serp..2.4.496.lG-7NWrSgjU
+http://stackoverflow.com/questions/27148360/chromecast-html-button
+https://developers.google.com/cast/docs/chrome_sender
+https://github.com/KoreaHaos/hello_chromecast_page_cast
+http://koreahaos.github.io/CastHelloVideo-chrome/
+https://www.google.com/search?sourceid=chrome-psyapi2&ion=1&espv=2&ie=UTF-8&q=cast%20webcam%20example&oq=cast%20webcam%20example&aqs=chrome..69i57.4390j1j8
